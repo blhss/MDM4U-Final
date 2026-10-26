@@ -19,21 +19,3 @@ Use this folder to see the original work and compare it with the revised version
 
 This folder contains the later reanalysis using 2023 fertility data. The revision removes regional and income-group aggregate entries, adds economic and female education variables, and compares regression models on the same sample. It also reports robust confidence intervals and sensitivity checks.
 
-```text
-improved/
-├── Research_Report.pdf       # Revised report for reading
-├── Research_Report.docx      # Editable Word version
-├── data/
-│   ├── raw/                 # Original workbook copy and downloaded source data
-│   ├── Data_Dictionary.md   # Variable definitions and cleaning rules
-│   └── source_manifest.json # Source URLs, retrieval dates, and checksums
-└── figures/                 # Charts used in the revised report
-```
-
-## Where to start
-
-- **Read the revised report:** [PDF](improved/Research_Report.pdf) or [Word](improved/Research_Report.docx).
-- **Inspect the data:** [Raw inputs](improved/data/raw/) and [data dictionary](improved/data/Data_Dictionary.md).
-- **Review the earlier project:** [Original materials](original/).
-
-The findings describe statistical associations. They do not establish that attitudes toward adolescent dating cause differences in fertility.
