@@ -1,0 +1,51 @@
+[
+  {
+    "file": "data/raw/undp_hdr2025.csv",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "retrieved_utc": "2026-10-26T03:24:40.539497+00:00",
+    "sha256": "61ed82e5b66c88dfca8ff9fac775c63981ecab6a254862af97acacc41c143117",
+    "bytes": 2001263
+  },
+  {
+    "file": "data/raw/undp_metadata.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_metadata.xlsx",
+    "retrieved_utc": "2026-10-26T03:24:40.701847+00:00",
+    "sha256": "b4128881e81d208aa75920114e1189ca01dcea41c7d8e977732e9342f6de0a8d",
+    "bytes": 13731
+  },
+  {
+    "file": "data/raw/undp_gdi_table.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Statistical_Annex_GDI_Table.xlsx",
+    "retrieved_utc": "2026-10-26T03:24:40.920158+00:00",
+    "sha256": "6bb2e3ec867a4b28782109fa6f1c3af31fde0e7c2cf7413031b2076edc076a0b",
+    "bytes": 61878
+  },
+  {
+    "file": "data/raw/wb_gdp_2023.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.PP.KD?date=2023&format=json&per_page=1000",
+    "retrieved_utc": "2026-10-26T03:24:41.097451+00:00",
+    "sha256": "a5e08af4795001e8e7335198419cff9b5a13e3471286704e4b645db57632b8cd",
+    "bytes": 66218
+  },
+  {
+    "file": "data/raw/wb_afr_2023.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.ADO.TFRT?date=2023&format=json&per_page=1000",
+    "retrieved_utc": "2026-10-26T03:24:41.454330+00:00",
+    "sha256": "413c794b93839298c44a525e7b831ec7e0268ddfe3d88e0dbb4e60ec4d392426",
+    "bytes": 65311
+  },
+  {
+    "file": "data/raw/wb_tfr_2023.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.TFRT.IN?date=2023&format=json&per_page=1000",
+    "retrieved_utc": "2026-10-26T03:24:41.554226+00:00",
+    "sha256": "1d6a0d97ca32f1e429bd6d28fde270462a5bc3661e67a97c8c0cf31927a495f1",
+    "bytes": 60292
+  },
+  {
+    "file": "data/raw/wb_gdp_metadata.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.PP.KD?format=json",
+    "retrieved_utc": "2026-10-26T03:24:41.607998+00:00",
+    "sha256": "55af4b25be9dc57c2865bc4a208710e7405b00306f8381038d884841d3b1e686",
+    "bytes": 2444
+  }
+]
